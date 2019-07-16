@@ -30,6 +30,7 @@ import UIKit
 
 @IBDesignable public class Knob: UIControl {
 
+    
   /** Contains the minimum value of the receiver. */
  public var minimumValue: Float = 0
 
